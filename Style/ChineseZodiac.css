@@ -1,0 +1,126 @@
+div#banner	{
+	text-align: center;
+	position: static;
+	border: 3px solid #FFE83B;
+}
+
+body	{
+	background-image: url("https://i.imgur.com/gZbCUWs.jpg");
+	background-color: #FF0000;
+	background-repeat: repeat;
+	background-position: center;
+	background-attachment: fixed;
+	color: #FFE83B;
+	font-family: arial;
+	margin: 40px;
+	font-size: larger;
+	font-family: sans-serif;
+}
+
+div.buttons	{
+	text-align: center;
+	position: static;
+	border: 3px solid #FFE83B;
+	background-image: url("https://thumb9.shutterstock.com/display_pic_with_logo/1645589/476497975/stock-vector-chinese-new-year-background-red-blooming-sakura-branches-on-bright-backdrop-vector-illustration-476497975.jpg");
+}
+
+p#index-content	{
+	color: #FFE83B;
+	font-family: arial;
+	font-family: sans-serif;
+}
+
+div#index-content	{
+	text-align: left;
+}
+
+img.index-image	{
+	float: right;
+}
+
+ul.index-list	{	
+	list-style-image: url("https://i.imgur.com/JDDjoZJ.jpg");
+}
+
+h1#index	{	
+	border: 2px dotted #FFE83B;
+	text-align: center;
+	width: 30%;
+	position: absolute;
+	left: 20px;
+	font-family: arial;
+	font-family: sans-serif;
+	font-size: xx-large;
+}
+
+h2#signs	{
+	border: 2px dotted #FFE83B;
+	text-align: center;
+	width: 30%;
+	position: center;
+	font-family: arial;
+	font-family: sans-serif;
+	font-size: xx-large;
+}
+
+footer	{
+	background-color: red;
+	color: white;
+	font-family: arial;
+	font-family: sans-serif;
+}
+
+
+h1	{
+	border: 2px outset #FFE83B;
+	margin: auto;
+	text-align: center;
+	width: 20%;
+	position: center;
+	font-family: arial;
+	font-family: sans-serif;
+	font-size: xx-large;
+}
+
+
+h1#twelvesigns	{
+	border: 2px outset #FFE83B;
+	margin: auto;
+	text-align: center;
+	width: 20%;
+	position: center;
+	font-family: arial;
+	font-family: sans-serif;
+	font-size: xx-large;
+}
+
+div#signs	{
+	text-align: center;
+	border: 2px solid #FFE83B;
+}
+
+
+ul	{
+	list-style-image: url("https://i.imgur.com/JDDjoZJ.jpg");
+}
+
+h1#header	{
+	border: 2px dashed #FFE83B;
+	width: 25%;
+	padding: 1%;
+	font-family: arial;
+	font-family: sans-serif;
+	position: absolute;
+	left: 40px;
+}
+
+h1#contact-us	{
+	border: 2px outset #FFE83B;
+	margin: auto;
+	text-align: center;
+	width: 20%;
+	position: center;
+	font-family: arial;
+	font-family: sans-serif;
+	font-size: xx-large;
+}
